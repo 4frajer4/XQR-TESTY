@@ -1,0 +1,6 @@
+---zatial som nerobil skript ,stiahni si to cele ako zip---
+---X reprezntuje cislo TESTU,ktore zacina od 01 a konci zatial na 17---
+---Testy,ktore nemaju ekvivalent v cisle testu a ERROR tak tieto nehadzu chyby---
+---Doplnte TESTY zatial na QUERY ci prejde ak vas nieco nove napadne vo FORMATE AKO SOM JA ZACAL!!!---
+---Ak budu chyby tak napiste mi na fb---
+php xqr.php --qf="./PATH TO QUERY/Q_TESTX" 
