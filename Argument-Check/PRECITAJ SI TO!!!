@@ -1,0 +1,8 @@
+--cez net sa tazko da vsetko otestovat kedze zatial nerobim skript a neviem vase cesty k suborom--
+--Ako otestovat nedostatocne opravnenia:
+vytvor si nejaku zlozku do nej si vytvor vstupny subor,vystupny subor,a subor s query--
+--V minte (obdobne to bude aj na inej distribucii linuxu) daj na priecinok pravym OPEN as administrator
+--zlozka sa ti otvori ako superuser potom klikny na jednotlive subory a daj properties potom permissions zmen vlastnika na root
+--a pre skupinu uzivatelov (group:)ktora vyvorila jednotlive subory daj ze nema pristup k danemu suboru
+--otestuj ak je zamietnuty pristup pri INPUT subore tak skonc s chybou 2 ak pri OUTPUT subore skonc s chybou 3 ak pri query
+subore skonc s chybou 80
