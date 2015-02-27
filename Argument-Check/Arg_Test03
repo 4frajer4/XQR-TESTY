@@ -1,0 +1,1 @@
+php xqr.php --help --input=./xml/skuska/input/arya.xml
