@@ -1,0 +1,1 @@
+SELECT elEMent FROM ElEMenTik.attribute WHERE    NOT      title CONTAINS "10.5@#.$%&*(*%(*&"
